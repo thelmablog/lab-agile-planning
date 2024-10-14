@@ -1,13 +1,13 @@
 ---
 name: User Story
-about: Making waves
+about: This Template is for creating user stories
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**As a** [role]  
+*As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
    
